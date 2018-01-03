@@ -1,0 +1,8 @@
+cofig = {
+    apiKey: "AIzaSyD40MAcvt9Vx4Sud-AcoGY-POq-rQ-lZP0",
+    authDomain: "multisensor9.firebaseapp.com",
+    databaseURL: "https://multisensor9.firebaseio.com",
+    projectId: "multisensor9",
+    storageBucket: "multisensor9.appspot.com",
+    messagingSenderId: "829800944158"
+  };
